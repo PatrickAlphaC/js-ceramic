@@ -29,7 +29,7 @@
     "@ethersproject/base64": "^5.0.2",
     "@ethersproject/random": "^5.0.2",
     "base64url": "^3.0.1",
-    "cids": "1.0.2",
+    "cids": "1.1.5",
     "did-jwt": "^4.6.3",
     "did-resolver": "^2.1.1",
     "dids": "^1.1.0",
